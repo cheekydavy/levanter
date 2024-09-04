@@ -18,8 +18,7 @@ A simple WhatsApp User bot.
    - [FORK](https://github.com/lyfe00011/levanter/fork) this repository.
 
 4. **Deploy:**
-   - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
-
+   ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/levanter).  `FIXED! ✔️`***
 ### 2. Deploy on Koyeb
 
 1. **Create an Account:**
